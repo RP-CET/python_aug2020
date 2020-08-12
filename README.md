@@ -4,11 +4,11 @@ Course materials are contained in this repository
 
 Scratch pad for the course:
 
-Instructor led code dissemination:
-https://www.codepile.net/pile/PythonDay1
+###Instructor led code dissemination: <br>
+https://www.codepile.net/pile/PythonDay1 <br>
 https://www.codepile.net/pile/PythonDay2
 
-Help line, for instructor to help debug:
+Help line, for instructor to help debug: <br>
 https://www.codepile.net/pile/Python-Help
 
 
